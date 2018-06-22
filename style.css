@@ -1,0 +1,26 @@
+.header {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+
+}
+
+.logo {
+    height: 50px;
+    width: 50px;
+    object-fit: contain;
+}
+
+.nav>li {
+    list-style: none;
+    float: left;
+    margin-right: 15px;
+}
+
+.nav-li:last-child {
+    margin-left: 0;
+}
+
+.aboutInternet>img {
+    width: ;
+}
